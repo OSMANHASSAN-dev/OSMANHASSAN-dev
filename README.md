@@ -1,46 +1,50 @@
 # 👋 Hi, I'm Osman Hassan
 
-🎓 **Computing Student** | 💻 **Frontend & Python Developer**  
-🔍 Passionate about turning ideas into real-world applications using code
+🎓 **Computing Student at Mount Kenya University**  
+💻 **Frontend & Python Developer**  
+📍 Nairobi, Kenya (UTC+3)  
 
 ---
 
 ## 🧠 About Me
 
-I'm a committed software developer focused on building clean, efficient, and impactful digital experiences. My current focus areas include:
+I'm a passionate computing student dedicated to building real-world tech solutions. My projects blend clean UI design, logical functionality, and practical problem-solving. I focus on:
 
-- 🧩 Frontend development (HTML, CSS, JavaScript)
-- 🐍 Python for automation and scientific computing
-- 📊 Hands-on projects from the ATM RCSS program
-- 🔗 Integrating logic, design, and user experience
-
----
-
-## 🚀 Projects & Work
-
-Here are some highlights of what I’ve worked on:
-
-- ✅ **18+ Frontend Projects** – real-world UI challenges built with HTML, CSS, and JS  
-- 🧪 **Scientific Python Scripts** – solutions for real-world tasks and experiments  
-- 📦 **Mini Tools & Apps** – timers, calculators, productivity tools, and more
-
-> Explore all my projects [here →](https://github.com/OSMANHASSAN-dev?tab=repositories)
+- 🎯 **Frontend Development:** HTML, CSS, JavaScript  
+- 🐍 **Python Programming:** Automation, scripting, scientific tasks  
+- 🔬 **Academic Labs & Real-World Projects:** Built during ATM RCSS and university coursework  
+- 🛠️ **Tools & Widgets:** From productivity apps to smart calculators
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-- [LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)  
-- 💼 Available for internships, collaborations, and freelance work  
-- 📍 Based in Kenya (UTC+3)
+- ✅ **Frontend-Programming-Projects**  
+  18+ mini web projects (timers, calculators, clocks) using HTML, CSS & JS.
+
+- 🧪 **Scientific Python Labs**  
+  Real-world tasks solved with Python — includes data parsing, automation, and logic scripts.
+
+- ⚙️ **Mini Tools & Apps**  
+  UI experiments and functional tools built for learning and productivity.
+
+🔗 [Browse My Repositories »](https://github.com/OSMANHASSAN-dev?tab=repositories)
+
+---
+
+## 💼 Let's Connect
+
+- [🔗 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)  
+- 📬 *Open to internships, collaborations, and freelance work*  
+- 🧩 *Always learning, building, and solving problems*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Osman's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default&hide_rank=true)
+![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default)
 
 ---
 
-Thanks for visiting my profile! 👇  
-Feel free to check out my work, star your favorites, or get in touch.
+Thanks for visiting my profile!  
+⭐ Feel free to explore my projects or reach out to connect!
