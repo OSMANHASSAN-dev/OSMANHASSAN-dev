@@ -31,45 +31,46 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ---
 
-## 🔗 Reach Me 💡
+## 💼 Portfolio 📚
+- 🔭 **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
+- 🔗 **[LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
+- 💡 **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/zoo-project)** – A project combining AI + visitor engagement tools.
+- 🎟️ **[Eventify Web App](https://osmanhassan-dev.github.io/eventify)** – Ticketing and streaming system.
+- 🖥️ **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
+- ⚡ **Fun Fact**: I love coding!
 
-Feel free to contact me:
-<p align="left">
-  <a href="https://linkedin.com/in/hassan-o-6355a3369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://osmanhassan-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
-  </a>
-  <a href="mailto:thisisatestemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/+254712345678" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+---
+
+## 🔗 Reach Me 💡
+Feel free to contact me :yum:
+<p><a href="https://www.linkedin.com/in/hassan-o-6355a3369" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+<a href="https://twitter.com/your_twitter_handle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a>
+<a href="https://www.facebook.com/your_facebook_profile" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white" height="30px"/></a>
+<a href="https://www.drupal.org/u/your_drupal_id" target="_blank"><img alt="Drupal" src="https://img.shields.io/badge/-drupal-blue?style=for-the-badge&logo=Drupal&logoColor=white" height="30px"/></a>
+<a href="https://stackoverflow.com/users/your_stackoverflow_id/your-name" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139" height="30px"/></a>
+</p>
+<br/>
+
+---
+
+## Github Profile Summary Card 💳
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OSMANHASSAN-dev&theme=apprentice"/>
 </p>
 
 ---
 
-## 💼 Portfolio
+## GitHub Stats 📟
 
-* **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
-* **[LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
-* **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/)** – A project combining AI + visitor engagement tools.
-* **[Eventify Web App](https://osmanhassan-dev.github.io/)** – Ticketing and streaming system.
-* **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
-* **Fun Fact**: I love coding!
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=apprentice" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=apprentice" />
+</p>
 
----
-
-## 📊 GitHub Stats & Activity
-
-[![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)](https://github.com/OSMANHASSAN-dev)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=dark)](https://github.com/OSMANHASSAN-dev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=dark)](https://github.com/OSMANHASSAN-dev)
-
+<p align="center">
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OSMANHASSAN-dev&theme=apprentice&utcOffset=3" /> <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OSMANHASSAN-dev&theme=apprentice" />
+</p>
 
 ---
 
