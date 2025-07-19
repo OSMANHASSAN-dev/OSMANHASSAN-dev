@@ -22,8 +22,7 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-for-the-badge&logo=paypal&logoColor=white)
 
 
-[cite_start]**Visits 4248** [cite: 30] *(Note: This "Visits" count is a static number from the example profile. To get your actual visitor count, you would need to use a dynamic badge service like [Visitor Badge](https://github.com/antonkomarev/github-profile-views-counter) by embedding an image URL similar to `![Visits](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev&color=blue)` in your README. Replace `OSMANHASSAN-dev` with your actual GitHub username. If you prefer to hardcode a different number for now, please provide it.)*
-
+![Profile Views](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev-dev&color=blue)
 ---
 
 ## 🚀 My Programming Languages
