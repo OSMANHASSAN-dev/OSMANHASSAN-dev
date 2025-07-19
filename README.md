@@ -33,67 +33,53 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ## 💼 Portfolio
 
-* **My GitHub Portfolio Site**: My official developer website hosted on GitHub Pages.
-* **LinkedIn**: in/hassan-o-6355a3369
-* **Zoo Wildlife AI Platform**: A project combining AI + visitor engagement tools.
-* **Eventify Web App**: Ticketing and streaming system.
-* **All GitHub Repositories**: OSMANHASSAN-dev?tab=repositories
-
----
-
-## 🎉 Fun Fact
-
-* I love coding!
+* **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
+* **[LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
+* **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/zoo-project)** – A project combining AI + visitor engagement tools.
+* **[Eventify Web App](https://osmanhassan-dev.github.io/eventify)** – Ticketing and streaming system.
+* **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
+* **Fun Fact**: I love coding!
 
 ---
 
 ## 📊 GitHub Profile Summary Card
 
-![Osman's GitHub Summary Card](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default&hide_rank=true)
-*(Note: This card dynamically fetches your GitHub summary. The numbers and graph will reflect your actual data from your profile like contributions, public repos, and join date.)*
+![Osman's GitHub Summary Card](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)
+*(Note: This card dynamically fetches your GitHub summary. The numbers and graph will reflect your actual data from your profile like contributions, public repos, and join date. The theme is set to dark to match the example, and the rank is now visible.)*
 
 ---
 
 ## 📈 GitHub Stats
 
-* **Total Stars Earned**: (Will be pulled from your actual stats card)
-* **Total Commits**: (Will be pulled from your actual stats card)
-* **Total PRs**: (Will be pulled from your actual stats card)
-* **Total Issues**: (Will be pulled from your actual stats card)
-* **Contributed to (last year)**: (Will be pulled from your actual stats card)
+![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)
+*(Note: This is the main GitHub Stats card, displaying Total Stars, Total Commits, Total PRs, Total Issues, and Contributions. The theme is dark.)*
 
 ---
 
 ## ⏱️ Current Streak
 
-* **Current Streak**: (This will dynamically update from your GitHub Streak card)
-* **Longest Streak**: (This will dynamically update from your GitHub Streak card)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=dark)
+*(Note: This dynamically updates your current and longest commit streaks. The theme is dark.)*
 
 ---
 
 ## 📊 Commits (UTC +8.00)
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=default)
-*(Note: This section is represented by your GitHub Contribution graph, similar to the example profile's "Commits (UTC +8.00)" section. It shows your commit activity over time.)*
+*(Note: Your commit graph is usually part of your main GitHub profile page. The "GitHub Streak" badge above also visualizes your daily commit activity. If you need a separate, more detailed graph here, you would typically use a custom solution.)*
 
 ---
 
 ## 🌍 Top Languages by Repo
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=default)
-*(Note: This badge dynamically displays your top programming languages based on your repositories, with percentages.)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=dark)
+*(Note: This badge dynamically displays your top programming languages based on your repositories, with percentages. The theme is dark.)*
 
 ---
 
 ## 🔗 Reach Me
 
-Feel free to contact me:
 * [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
 * [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
-* [🐦 Twitter](https://twitter.com/your_twitter_handle) *(Please replace with your actual Twitter handle)*
-* [📘 Facebook](https://facebook.com/your_facebook_profile) *(Please replace with your actual Facebook profile)*
-* [📚 Stack Overflow](https://stackoverflow.com/users/your_stackoverflow_id/your-name) *(Please replace with your actual Stack Overflow ID/name)*
-* [💡 Drupal Profile](https://www.drupal.org/u/your_drupal_id) *(Please replace with your actual Drupal profile URL if you have one)*
 
 ---
 
