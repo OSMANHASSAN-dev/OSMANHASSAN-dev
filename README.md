@@ -70,7 +70,6 @@ Feel free to contact me:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=dark)](https://github.com/OSMANHASSAN-dev)
 
-*(Note: These dynamic badges collectively display your GitHub profile summary, detailed stats like stars, commits, PRs, issues, your current and longest streaks, and a breakdown of your top languages by repository. The themes are set to dark to match the example profile.)*
 
 ---
 
