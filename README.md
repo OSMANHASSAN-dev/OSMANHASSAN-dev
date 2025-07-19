@@ -29,7 +29,7 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=default)
 
-*(Note: This image automatically pulls your top languages and their percentages from your GitHub profile, creating a visual similar to the example. The exact percentages and languages shown will be based on your actual repositories.)*
+
 
 ---
 ---
