@@ -31,6 +31,13 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ---
 
+## 🔗 Reach Me
+
+* [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
+* [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
+
+---
+
 ## 💼 Portfolio
 
 * **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
@@ -42,44 +49,15 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ---
 
-## 📊 GitHub Profile Summary Card
+## 📊 GitHub Stats & Activity
 
-![Osman's GitHub Summary Card](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)
-*(Note: This card dynamically fetches your GitHub summary. The numbers and graph will reflect your actual data from your profile like contributions, public repos, and join date. The theme is set to dark to match the example, and the rank is now visible.)*
+[![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)](https://github.com/OSMANHASSAN-dev)
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=dark)](https://github.com/OSMANHASSAN-dev)
 
-## 📈 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=dark)](https://github.com/OSMANHASSAN-dev)
 
-![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=dark&hide_rank=false)
-*(Note: This is the main GitHub Stats card, displaying Total Stars, Total Commits, Total PRs, Total Issues, and Contributions. The theme is dark.)*
-
----
-
-## ⏱️ Current Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=dark)
-*(Note: This dynamically updates your current and longest commit streaks. The theme is dark.)*
-
----
-
-## 📊 Commits (UTC +8.00)
-
-*(Note: Your commit graph is usually part of your main GitHub profile page. The "GitHub Streak" badge above also visualizes your daily commit activity. If you need a separate, more detailed graph here, you would typically use a custom solution.)*
-
----
-
-## 🌍 Top Languages by Repo
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=dark)
-*(Note: This badge dynamically displays your top programming languages based on your repositories, with percentages. The theme is dark.)*
-
----
-
-## 🔗 Reach Me
-
-* [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
-* [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
+*(Note: These dynamic badges collectively display your GitHub profile summary, detailed stats like stars, commits, PRs, issues, your current and longest streaks, and a breakdown of your top languages by repository. The themes are set to dark to match the example profile.)*
 
 ---
 
