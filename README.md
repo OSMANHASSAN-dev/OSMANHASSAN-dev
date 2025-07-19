@@ -31,10 +31,26 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ---
 
-## 🔗 Reach Me
+## 🔗 Reach Me 💡
 
-* [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
-* [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
+Feel free to contact me:
+<p align="left">
+  <a href="https://linkedin.com/in/hassan-o-6355a3369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://facebook.com/your_facebook_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://stackoverflow.com/users/your_stackoverflow_id/your-name" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://www.drupal.org/u/your_drupal_id" target="_blank">
+    <img src="https://img.shields.io/badge/Drupal-0678B3?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+  </a>
+</p>
 
 ---
 
