@@ -8,61 +8,58 @@
 
 ## 🧠 About Me
 
-I'm a passionate computing student dedicated to building real-world tech solutions that are both practical and visually clean. I specialize in:
+I'm a passionate computing student focused on building real-world tech solutions. My work blends clean UI/UX, functional logic, and strong backend integration. I specialize in:
 
-- 🎯 **Frontend Development:** HTML, CSS, JavaScript  
-- 🐍 **Python Programming:** Automation, scripting, scientific computing  
-- 🔬 **Academic Labs & Real-World Projects:** Developed during ATM RCSS & coursework  
-- 🛠️ **Custom Tools:** Timers, calculators, smart widgets, and productivity apps
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Bootstrap, PHP  
+- 🐍 **Python Programming:** Automation, scripting, scientific tools  
+- 💸 **Payment Integration:** PayPal APIs  
+- 🛠️ **Project Experience:** University work, ATM RCSS challenges, & real-use widgets
 
 ---
 
 ## 🚀 Featured Projects
 
-- ✅ [**Frontend Programming Projects**](https://github.com/OSMANHASSAN-dev/Frontend-Programming-Projects)  
-  18+ mini web projects — clocks, forms, calculators built with HTML, CSS, and JS.
+- ✅ **Frontend-Programming-Projects**  
+  18+ web mini-projects using HTML, CSS & JS (clocks, calculators, games)
 
-- 🧪 [**Scientific Python Labs**](https://github.com/OSMANHASSAN-dev/Scientific-Python-Labs)  
-  Logic-based lab tasks with real-world applications: data parsing, automation, etc.
+- 🧪 **Scientific Python Labs**  
+  Real-world problems solved with Python automation and logic
 
-- ⚙️ [**Mini Tools & UI Apps**](https://github.com/OSMANHASSAN-dev)  
-  Web widgets, form validation tools, and more made for learning and productivity.
+- 🧮 **Mini Tools & Widgets**  
+  Smart productivity tools and experiments built with clean UI
 
----
+- 🎮 **Dora Ball Game**  
+  Fun, interactive ball control game created with HTML/JS
 
-## 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
+🔗 [Browse All Repositories »](https://github.com/OSMANHASSAN-dev?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 🌐 Portfolio
 
-![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&theme=github_dark&hide_border=true)
+- 🔗 **GitHub Portfolio Website:** [osmanhassan-dev.github.io](https://osmanhassan-dev.github.io)
+- 🎯 **Live Project 1:** [BrowserVsys](https://osmanhassan-dev.github.io/BrowserVsys/)
+- 🎯 **Live Project 2:** [Dora Ball](https://osmanhassan-dev.github.io/DoraBall/)
 
----
-
-## 🌐 Portfolio & Contact
-
-- 🔗 [LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)  
-- 📨 Email: *Add your email if you want to display it*  
-- 💼 Open to **internships**, **collaborations**, and **freelance work**
+Feel free to check out more on:
+- 🧩 **GitHub:** [github.com/OSMANHASSAN-dev](https://github.com/OSMANHASSAN-dev)
+- 💼 **LinkedIn:** [linkedin.com/in/hassan-o-6355a3369](https://linkedin.com/in/hassan-o-6355a3369)
 
 ---
 
-## 🧭 Profile Visitors
+## 📊 GitHub Stats
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev&style=flat-square&color=blueviolet)
+![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=OSMANHASSAN-dev&theme=default)
 
 ---
 
-> _"Keep learning. Keep building. Keep shipping."_ 🚀
+## 📬 Get in Touch
 
+🚀 Open to internships, freelance projects, and collaborations.  
+💡 Always learning, building, and solving practical tech problems.
+
+---
+
+⭐ Thanks for stopping by! Explore my work or reach out—I'd love to connect.
