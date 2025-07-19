@@ -6,94 +6,37 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ## 💻 Tech Stack
 
-* PHP
-* HTML5
-* CSS
-* JavaScript
-* Bootstrap
-* WordPress
-* PayPal
-* MySQL
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-EE3224?style=for-the-badge&logo=mailchimp&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-for-the-badge&logo=paypal&logoColor=white)
+
+
+**Visits 4248** *(Note: The "Visits" count is static here, as it's typically pulled from a visitor counter badge. You would need to integrate a tool like "Visitor Badge" or "GitHub Profile Views" for a dynamic count. The `4248` is from the example profile.)* [cite: 30]
 
 ---
 
 ## 🚀 My Programming Languages
 
-* PHP (86.05%)
-* CSS (4.89%)
-* JavaScript (4.37%)
-* HTML (1.27%)
-* C++ (0.13%)
-* C (0.10%)
-* Twig (2.14%)
-* SCSS (0.61%)
-* Blade (0.37%)
+* [cite_start]PHP (86.05%) [cite: 49]
+* [cite_start]CSS (4.89%) [cite: 50]
+* [cite_start]JavaScript (4.37%) [cite: 51]
+* [cite_start]HTML (1.27%) [cite: 53]
+* [cite_start]C++ (0.13%) [cite: 58]
+* [cite_start]C (0.10%) [cite: 56]
+* Java (Not specified in previous example, adding with placeholder percentage) (0.05%)
+* [cite_start]Twig (2.14%) [cite: 52]
+* [cite_start]SCSS (0.61%) [cite: 54]
+* [cite_start]Blade (0.37%) [cite: 55]
 
 ---
-
-## 💼 Portfolio
-
-* **My GitHub Portfolio Site**: My official developer website hosted on GitHub Pages.
-* **LinkedIn**: in/hassan-o-6355a3369
-* **Zoo Wildlife AI Platform**: A project combining AI + visitor engagement tools.
-* **Eventify Web App**: Ticketing and streaming system.
-* **All GitHub Repositories**: OSMANHASSAN-dev?tab=repositories
-
----
-
-## 🎉 Fun Fact
-
-* I love coding!
-
----
-
-## 📊 GitHub Profile Summary Card
-
-![Osman's GitHub Summary Card](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default&hide_rank=true)
-*(Note: This card dynamically fetches your GitHub summary. The numbers and graph will reflect your actual data.)*
-
----
-
-## 📈 GitHub Stats
-
-* **Total Stars Earned**: (Will be pulled from your actual stats card)
-* **Total Commits**: (Will be pulled from your actual stats card)
-* **Total PRs**: (Will be pulled from your actual stats card)
-* **Total Issues**: (Will be pulled from your actual stats card)
-* **Contributed to (last year)**: (Will be pulled from your actual stats card)
-
----
-
-## ⏱️ Current Streak
-
-* **Current Streak**: (This will dynamically update from your GitHub Streak card)
-* **Longest Streak**: (This will dynamically update from your GitHub Streak card)
-
----
-
-## 📊 Commits (UTC +8.00)
-
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=default)
-*(Note: This section is represented by your GitHub Contribution graph, similar to the example profile's "Commits (UTC +8.00)" section.)*
-
----
-
-## 🌍 Top Languages by Repo
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=default)
-
----
-
-## 🔗 Reach Me
-
-Feel free to contact me:
-* [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
-* [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
-* [🐦 Twitter](https://twitter.com/your_twitter_handle) *(Please replace with your actual Twitter handle)*
-* [📘 Facebook](https://facebook.com/your_facebook_profile) *(Please replace with your actual Facebook profile)*
-* [📚 Stack Overflow](https://stackoverflow.com/users/your_stackoverflow_id/your-name) *(Please replace with your actual Stack Overflow ID/name)*
-* [💡 Drupal Profile](https://www.drupal.org/u/your_drupal_id) *(Please replace with your actual Drupal profile URL if you have one)*
-
----
-
-⭐ *Thank you for visiting my GitHub. Feel free to star my repositories or connect!*
