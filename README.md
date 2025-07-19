@@ -22,7 +22,7 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-for-the-badge&logo=paypal&logoColor=white)
 
 
-**Visits 4248** *(Note: The "Visits" count is static here, as it's typically pulled from a visitor counter badge. You would need to integrate a tool like "Visitor Badge" or "GitHub Profile Views" for a dynamic count. The `4248` is from the example profile.)* [cite: 30]
+**Visits 4248** *(Note: The "Visits" count in the example profile is a static number displayed next to the "Tech Stack" section. For your actual visits, you would typically use a dynamic visitor badge from a service like "Visitor Badge" or "GitHub Profile Views" which you'd embed using an image URL. If you have a specific visitor count you'd like to hardcode for now, please provide it. Otherwise, this line is a placeholder mimicking the example's visual placement.)*
 
 ---
 
@@ -31,12 +31,11 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 * [cite_start]PHP (86.05%) [cite: 49]
 * [cite_start]CSS (4.89%) [cite: 50]
 * [cite_start]JavaScript (4.37%) [cite: 51]
-* [cite_start]HTML (1.27%) [cite: 53]
-* [cite_start]C++ (0.13%) [cite: 58]
-* [cite_start]C (0.10%) [cite: 56]
-* Java (Not specified in previous example, adding with placeholder percentage) (0.05%)
 * [cite_start]Twig (2.14%) [cite: 52]
+* [cite_start]HTML (1.27%) [cite: 53]
 * [cite_start]SCSS (0.61%) [cite: 54]
 * [cite_start]Blade (0.37%) [cite: 55]
-
+* [cite_start]C (0.10%) [cite: 56]
+* [cite_start]C++ (0.13%) [cite: 58]
+* [cite_start]Go (0.07%)
 ---
