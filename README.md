@@ -46,13 +46,21 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ## 🔗 Reach Me 💡
 **Feel free to contact me** :yum:
-<p><a href="https://www.linkedin.com/in/hassan-o-6355a3369" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
-<a href="https://twitter.com/your_twitter_handle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a>
-<a href="https://www.facebook.com/your_facebook_profile" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white" height="30px"/></a>
-<a href="https://www.drupal.org/u/your_drupal_id" target="_blank"><img alt="Drupal" src="https://img.shields.io/badge/-drupal-blue?style=for-the-badge&logo=Drupal&logoColor=white" height="30px"/></a>
-<a href="https://stackoverflow.com/users/your_stackoverflow_id/your-name" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139" height="30px"/></a>
+<p align="left">
+  <a href="https://linkedin.com/in/hassan-o-6355a3369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://osmanhassan-dev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
+  </a>
+  <a href="mailto:thisisatestemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/+254712345678" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
-<br/>
+
 
 ---
 
