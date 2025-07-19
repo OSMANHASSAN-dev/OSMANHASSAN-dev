@@ -41,10 +41,10 @@ Feel free to contact me:
   <a href="https://osmanhassan-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:osmansuleiman466.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+  <a href="https://wa.me/+254712345678" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
