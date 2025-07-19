@@ -33,9 +33,9 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ## 💼 Portfolio 📚
 - 🔭 **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
-- 🔗 **[LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
-- 💡 **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/zoo-project)** – A project combining AI + visitor engagement tools.
-- 🎟️ **[Eventify Web App](https://osmanhassan-dev.github.io/eventify)** – Ticketing and streaming system.
+- 🔗 **[My LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
+- 💡 **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/)** – A project combining AI + visitor engagement tools.
+- 🎟️ **[Eventify Web App](https://osmanhassan-dev.github.io/)** – Ticketing and streaming system.
 - 🖥️ **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
 - ⚡ **Fun Fact**: I love coding!
 - 🌱 **I’m currently learning everything** 🤣
