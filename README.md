@@ -1,65 +1,50 @@
 # 👋 Hi, I'm Osman Hassan
 
-🎓 **Computing Student at Mount Kenya University**  
-💻 **Frontend & Python Developer**  
-📍 Nairobi, Kenya (UTC+3)  
+🎓 Final-year Computer Science Student at Mount Kenya University  
+💻 Full-Stack Developer | AI & ML Enthusiast | Cybersecurity Learner  
+📍 Based in Nairobi, Kenya (UTC+3)
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate computing student focused on building real-world tech solutions. My work blends clean UI/UX, functional logic, and strong backend integration. I specialize in:
-
-- 🌐 **Web Development:** HTML, CSS, JavaScript, Bootstrap, PHP  
-- 🐍 **Python Programming:** Automation, scripting, scientific tools  
-- 💸 **Payment Integration:** PayPal APIs  
-- 🛠️ **Project Experience:** University work, ATM RCSS challenges, & real-use widgets
+I'm a passionate and versatile software developer focused on solving real-world problems with technology. My expertise spans both frontend and backend technologies, along with interests in artificial intelligence, mobile apps, and cybersecurity.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Tech Stack & Tools
 
-- ✅ **Frontend-Programming-Projects**  
-  18+ web mini-projects using HTML, CSS & JS (clocks, calculators, games)
+**Languages & Technologies**  
+`HTML` `CSS` `JavaScript` `Python` `PHP` `MySQL` `Java` `C` `C++` `UML` `Bootstrap` `WordPress`
 
-- 🧪 **Scientific Python Labs**  
-  Real-world problems solved with Python automation and logic
-
-- 🧮 **Mini Tools & Widgets**  
-  Smart productivity tools and experiments built with clean UI
-
-- 🎮 **Dora Ball Game**  
-  Fun, interactive ball control game created with HTML/JS
-
-🔗 [Browse All Repositories »](https://github.com/OSMANHASSAN-dev?tab=repositories)
+**Tools & APIs**  
+`Git` `GitHub` `PayPal API` `VS Code` `Figma` `Firebase` `Android Studio`
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Featured Portfolio
 
-- 🔗 **GitHub Portfolio Website:** [osmanhassan-dev.github.io](https://osmanhassan-dev.github.io)
-- 🎯 **Live Project 1:** [BrowserVsys](https://osmanhassan-dev.github.io/BrowserVsys/)
-- 🎯 **Live Project 2:** [Dora Ball](https://osmanhassan-dev.github.io/DoraBall/)
-
-Feel free to check out more on:
-- 🧩 **GitHub:** [github.com/OSMANHASSAN-dev](https://github.com/OSMANHASSAN-dev)
-- 💼 **LinkedIn:** [linkedin.com/in/hassan-o-6355a3369](https://linkedin.com/in/hassan-o-6355a3369)
+- 🧩 **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
+- 🌐 **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/zoo-project)** – A project combining AI + visitor engagement tools.
+- 📱 **[Eventify Web App](https://osmanhassan-dev.github.io/eventify)** – Ticketing and streaming system.
+- 💼 **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=OSMANHASSAN-dev&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=default)
 
 ---
 
-## 📬 Get in Touch
+## 🔗 Connect with Me
 
-🚀 Open to internships, freelance projects, and collaborations.  
-💡 Always learning, building, and solving practical tech problems.
+- [🌐 GitHub](https://github.com/OSMANHASSAN-dev)
+- [💼 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)
+- 📬 *Available for internships, entry-level dev roles, and freelance projects*
 
 ---
 
-⭐ Thanks for stopping by! Explore my work or reach out—I'd love to connect.
+⭐ *Thank you for visiting my GitHub. Feel free to star my repositories or connect!*  
