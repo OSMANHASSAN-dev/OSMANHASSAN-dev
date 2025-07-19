@@ -38,11 +38,14 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 - 🎟️ **[Eventify Web App](https://osmanhassan-dev.github.io/eventify)** – Ticketing and streaming system.
 - 🖥️ **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
 - ⚡ **Fun Fact**: I love coding!
+- 🌱 **I’m currently learning everything** 🤣
+- 👯 **I’m looking to collaborate with other content creators**
+- 
 
 ---
 
 ## 🔗 Reach Me 💡
-Feel free to contact me :yum:
+**Feel free to contact me** :yum:
 <p><a href="https://www.linkedin.com/in/hassan-o-6355a3369" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 <a href="https://twitter.com/your_twitter_handle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a>
 <a href="https://www.facebook.com/your_facebook_profile" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white" height="30px"/></a>
@@ -74,4 +77,4 @@ Feel free to contact me :yum:
 
 ---
 
-⭐ *Thank you for visiting my GitHub. Feel free to star my repositories or connect!*
+⭐ **Thank you for visiting my GitHub. Feel free to star my repositories or connect!**
