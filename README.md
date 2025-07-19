@@ -8,43 +8,61 @@
 
 ## 🧠 About Me
 
-I'm a passionate computing student dedicated to building real-world tech solutions. My projects blend clean UI design, logical functionality, and practical problem-solving. I focus on:
+I'm a passionate computing student dedicated to building real-world tech solutions that are both practical and visually clean. I specialize in:
 
 - 🎯 **Frontend Development:** HTML, CSS, JavaScript  
-- 🐍 **Python Programming:** Automation, scripting, scientific tasks  
-- 🔬 **Academic Labs & Real-World Projects:** Built during ATM RCSS and university coursework  
-- 🛠️ **Tools & Widgets:** From productivity apps to smart calculators
+- 🐍 **Python Programming:** Automation, scripting, scientific computing  
+- 🔬 **Academic Labs & Real-World Projects:** Developed during ATM RCSS & coursework  
+- 🛠️ **Custom Tools:** Timers, calculators, smart widgets, and productivity apps
 
 ---
 
 ## 🚀 Featured Projects
 
-- ✅ **Frontend-Programming-Projects**  
-  18+ mini web projects (timers, calculators, clocks) using HTML, CSS & JS.
+- ✅ [**Frontend Programming Projects**](https://github.com/OSMANHASSAN-dev/Frontend-Programming-Projects)  
+  18+ mini web projects — clocks, forms, calculators built with HTML, CSS, and JS.
 
-- 🧪 **Scientific Python Labs**  
-  Real-world tasks solved with Python — includes data parsing, automation, and logic scripts.
+- 🧪 [**Scientific Python Labs**](https://github.com/OSMANHASSAN-dev/Scientific-Python-Labs)  
+  Logic-based lab tasks with real-world applications: data parsing, automation, etc.
 
-- ⚙️ **Mini Tools & Apps**  
-  UI experiments and functional tools built for learning and productivity.
-
-🔗 [Browse My Repositories »](https://github.com/OSMANHASSAN-dev?tab=repositories)
+- ⚙️ [**Mini Tools & UI Apps**](https://github.com/OSMANHASSAN-dev)  
+  Web widgets, form validation tools, and more made for learning and productivity.
 
 ---
 
-## 💼 Let's Connect
+## 🛠️ Tech Stack
 
-- [🔗 LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)  
-- 📬 *Open to internships, collaborations, and freelance work*  
-- 🧩 *Always learning, building, and solving problems*
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=default)
+![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-Thanks for visiting my profile!  
-⭐ Feel free to explore my projects or reach out to connect!
+## 🌐 Portfolio & Contact
+
+- 🔗 [LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)  
+- 📨 Email: *Add your email if you want to display it*  
+- 💼 Open to **internships**, **collaborations**, and **freelance work**
+
+---
+
+## 🧭 Profile Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev&style=flat-square&color=blueviolet)
+
+---
+
+> _"Keep learning. Keep building. Keep shipping."_ 🚀
+
