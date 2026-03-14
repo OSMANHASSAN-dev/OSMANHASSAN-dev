@@ -1,70 +1,104 @@
-# 👋 Hey there!
 
-I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Computer Science Student at Mount Kenya University. Despite being a Full-Stack Developer, I am very much enthusiastic about frontend technologies. My expertise includes PHP, WordPress, JavaScript, MySQL. Additionally, I like to contribute to the open-source community.
 
----
+# 👋 Hello
 
-## 💻 Tech Stack
+I am **Osman Hassan**, a final year **BSc Computer Science student at Mount Kenya University, Kenya**. My main focus is **Artificial Intelligence, Data Science, and Machine Learning**, with strong experience in **Python programming and software development**.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-EE3224?style=for-the-badge&logo=mailchimp&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-for-the-badge&logo=paypal&logoColor=white)
+I build practical technology solutions that combine **data analysis, machine learning, and web technologies**. My projects include AI driven platforms, event systems, and data analysis applications designed to solve real world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev&color=blue)
+I enjoy learning new technologies, contributing to technical projects, and developing systems that combine **data, software engineering, and intelligent automation**.
 
 ---
 
-## 🚀 My Programming Languages
+## 💻 Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev&layout=compact&langs_count=10&theme=default)
+### Artificial Intelligence and Data Science
+
+Python
+Pandas
+NumPy
+Scikit learn
+Data Analysis
+Machine Learning
+Data Visualization
+
+### Web Development
+
+PHP
+JavaScript
+HTML5
+CSS3
+Bootstrap
+WordPress
+MySQL
+REST APIs
+
+### Programming and Tools
+
+C
+C++
+Java
+jQuery
+Git
+
+### Networking
+
+Cisco Networking Academy Training (CCNA)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OSMANHASSAN-dev\&color=blue)
 
 ---
 
-## 💼 Portfolio 📚
-- 🔭 **[My GitHub Portfolio Site](https://osmanhassan-dev.github.io)** – My official developer website hosted on GitHub Pages.
-- 🔗 **[My LinkedIn](https://linkedin.com/in/hassan-o-6355a3369)**
-- 💡 **[Zoo Wildlife AI Platform](https://osmanhassan-dev.github.io/)** – A project combining AI + visitor engagement tools.
-- 🎟️ **[Eventify Web App](https://osmanhassan-dev.github.io/)** – Ticketing and streaming system.
-- 🖥️ **[All GitHub Repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)**
-- ⚡ **Fun Fact**: I love coding!
-- 🌱 **I’m currently learning everything** 🤣
-- 👯 **I’m looking to collaborate with other content creators**
-- 
+## 🚀 Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMANHASSAN-dev\&layout=compact\&langs_count=10\&theme=default)
 
 ---
 
-## 🔗 Reach Me 💡
-**Feel free to contact me** :yum:
+## 💼 Featured Projects
+
+🔹 **AI Driven Zoo Visitor Engagement and Wildlife Monitoring Platform**
+A web based platform that integrates artificial intelligence to support wildlife monitoring and visitor engagement.
+
+🔹 **Eventify Web Application**
+A ticketing and event streaming system built using modern web technologies.
+
+🔹 **Scientific Computing and Data Analysis Labs**
+Practical projects focused on data preparation, data manipulation, and visualization using real datasets.
+
+🔹 **GitHub Portfolio Website**
+Personal developer portfolio hosted using GitHub Pages.
+
+Portfolio
+[https://osmanhassan-dev.github.io](https://osmanhassan-dev.github.io)
+
+LinkedIn
+[https://linkedin.com/in/hassan-o-6355a3369](https://linkedin.com/in/hassan-o-6355a3369)
+
+Repositories
+[https://github.com/OSMANHASSAN-dev?tab=repositories](https://github.com/OSMANHASSAN-dev?tab=repositories)
+
+---
+
+## 🔗 Connect With Me
+
+If you are interested in collaboration, research, or technology projects, feel free to connect.
+
 <p align="left">
   <a href="https://linkedin.com/in/hassan-o-6355a3369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://osmanhassan-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:thisisatestemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/+254712345678" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-
 ---
 
-## Github Profile Summary Card 💳
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OSMANHASSAN-dev&theme=apprentice"/>
@@ -72,17 +106,14 @@ I am **Osman Hassan**. A Web developer from Kenya, currently a final-year Comput
 
 ---
 
-## GitHub Stats 📟
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=apprentice" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=apprentice" />
-</p>
-
-<p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OSMANHASSAN-dev&theme=apprentice&utcOffset=3" /> <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OSMANHASSAN-dev&theme=apprentice" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OSMANHASSAN-dev&show_icons=true&theme=apprentice"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OSMANHASSAN-dev&theme=apprentice"/>
 </p>
 
 ---
 
-⭐ **Thank you for visiting my GitHub. Feel free to star my repositories or connect!**
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
+
